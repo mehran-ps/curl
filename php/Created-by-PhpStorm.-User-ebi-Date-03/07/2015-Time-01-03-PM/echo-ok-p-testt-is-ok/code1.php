@@ -1,3 +1,4 @@
+//this is new version
 <?php
 /**
  * Created by PhpStorm.
@@ -5,7 +6,8 @@
  * Date: 03/07/2015
  * Time: 01:03 PM
  */
-echo "ok";
+
+echo "this is not ok";
 ?>
 <p>testt is ok</p>
 <?php
